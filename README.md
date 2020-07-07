@@ -70,3 +70,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 # Red social - Backend realizado en Golang
 [Backend Red social](https://github.com/Paulo-Ariel-Pareja/backend-red-social-go)
+
+# Lives on:
+[Netlify](https://red-social.netlify.app/)
+
