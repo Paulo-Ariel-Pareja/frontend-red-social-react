@@ -74,3 +74,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 # Lives on:
 [Netlify](https://red-social.netlify.app/)
 
+[Github Pages](https://Paulo-Ariel-Pareja.github.io/frontend-red-social-react)
