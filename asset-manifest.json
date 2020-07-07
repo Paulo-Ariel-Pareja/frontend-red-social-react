@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/frontend-red-social-react/static/css/main.52e815fc.chunk.css",
+    "main.js": "/frontend-red-social-react/static/js/main.f1166a99.chunk.js",
+    "main.js.map": "/frontend-red-social-react/static/js/main.f1166a99.chunk.js.map",
+    "runtime-main.js": "/frontend-red-social-react/static/js/runtime-main.f0a79e1a.js",
+    "runtime-main.js.map": "/frontend-red-social-react/static/js/runtime-main.f0a79e1a.js.map",
+    "static/css/2.9f98d992.chunk.css": "/frontend-red-social-react/static/css/2.9f98d992.chunk.css",
+    "static/js/2.fab71675.chunk.js": "/frontend-red-social-react/static/js/2.fab71675.chunk.js",
+    "static/js/2.fab71675.chunk.js.map": "/frontend-red-social-react/static/js/2.fab71675.chunk.js.map",
+    "index.html": "/frontend-red-social-react/index.html",
+    "precache-manifest.f83a00855d9e62a657b8a31192e4c64f.js": "/frontend-red-social-react/precache-manifest.f83a00855d9e62a657b8a31192e4c64f.js",
+    "service-worker.js": "/frontend-red-social-react/service-worker.js",
+    "static/css/2.9f98d992.chunk.css.map": "/frontend-red-social-react/static/css/2.9f98d992.chunk.css.map",
+    "static/css/main.52e815fc.chunk.css.map": "/frontend-red-social-react/static/css/main.52e815fc.chunk.css.map",
+    "static/js/2.fab71675.chunk.js.LICENSE.txt": "/frontend-red-social-react/static/js/2.fab71675.chunk.js.LICENSE.txt",
+    "static/media/camara.16e35662.svg": "/frontend-red-social-react/static/media/camara.16e35662.svg",
+    "static/media/close.cad70081.svg": "/frontend-red-social-react/static/media/close.cad70081.svg",
+    "static/media/date-birth.9b45fe49.svg": "/frontend-red-social-react/static/media/date-birth.9b45fe49.svg",
+    "static/media/error-404.png": "/frontend-red-social-react/static/media/error-404.d3c57e3b.png",
+    "static/media/links.a108520e.svg": "/frontend-red-social-react/static/media/links.a108520e.svg",
+    "static/media/location.02f2070b.svg": "/frontend-red-social-react/static/media/location.02f2070b.svg",
+    "static/media/logo-white.png": "/frontend-red-social-react/static/media/logo-white.41f65f75.png",
+    "static/media/logo.png": "/frontend-red-social-react/static/media/logo.1769587d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0a79e1a.js",
+    "static/css/2.9f98d992.chunk.css",
+    "static/js/2.fab71675.chunk.js",
+    "static/css/main.52e815fc.chunk.css",
+    "static/js/main.f1166a99.chunk.js"
+  ]
+}
